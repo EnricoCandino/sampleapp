@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green_rating">#1cab00</color>
+
+    <color name="activity_background">#DDDDDD</color>
+    <color name="app_color">#F2784B</color>
+    <color name="menu_profile_bg">#ff272727</color>
+    <color name="menu_bg">#ff2e2e2e</color>
+
+    <color name="green">#ff42c239</color>
+    <color name="red">#ffd23a2d</color>
+
+    <color name="palette_green">#89ae65</color>
+    <color name="palette_yellow">#f4e484</color>
+    <color name="palette_orange">#f3a259</color>
+    <color name="palette_blue">#5b8c7a</color>
+    <color name="palette_red">#b84a53</color>
+
+</resources>
